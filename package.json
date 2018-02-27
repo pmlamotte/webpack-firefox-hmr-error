@@ -1,0 +1,14 @@
+{
+  "name": "webpack-firefox-hmr-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.2"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --progress"
+  }
+}
